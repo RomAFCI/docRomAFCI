@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "f61bdf47675a3faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ecc35e7b531bc8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04116a72f3951f6a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ac14cbf4bbb25f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f587065788031f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63488559b0741de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bbd8a94001bda310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b84ea50e0a7481e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c61023df9eb8940",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f50c3d1d8c3c793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef33a519f27a283",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exercices/Exercices - Manipulation du DOM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exercices - Manipulation du DOM"
+            }
+          },
+          {
+            "id": "8bb5afbe974efe2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exercices/Exercices - Manipulation du DOM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Exercices - Manipulation du DOM"
+            }
+          },
+          {
+            "id": "efa3bff9ebe26716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "265a867a4fa9602f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exercices/Exercices - Manipulation du DOM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Exercices - Manipulation du DOM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04116a72f3951f6a",
+  "lastOpenFiles": [
+    "Exercices/Exercices - Fonctions.md",
+    "Exercices/Exercices - Manipulation du DOM.md",
+    "Exercices/Exercices - Algo de base.md",
+    "Cours/2- Syntaxe de base.md",
+    "Cours/1- Introduction à JavaScript.md",
+    "Exercices/Exercices - Conditions & boucles.md",
+    "Aide mémoire - Tableaux.md",
+    "Aide mémoire - Général.md",
+    "Aide mémoire - Manipulation du DOM.md",
+    "Sommaire.md",
+    "Cours/9- Bonnes Pratiques et Débogage.md",
+    "Cours/8- Frameworks JavaScript.md",
+    "Cours/7- AJAX (Asynchronous JavaScript and XML).md",
+    "Cours/6- Concepts Avancés.md",
+    "Cours/5- Fonctions avancées.md",
+    "Cours/4- Gestion des tableaux et Objets.md",
+    "Cours/3- Manipulation du DOM.md"
+  ]
+}
